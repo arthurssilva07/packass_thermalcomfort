@@ -29,4 +29,4 @@ Os três últimos scripts já foram desenvolvidos para o cálculo de arquivos �
 
 Abaixo encontra-se o **tutorial** para a aplicação dos scripts e dos datasets (in portuguese):
 
-[Tutorial packass_thermalcomfort](https://1drv.ms/b/s!AsjYRUK2Ar8Pl_kuf8gjIy3dYQV4Sg)
+[Tutorial packass_thermalcomfort](https://drive.google.com/file/d/1HGpPxmkE89N6ma78S_kvQL11qLPsXE63/view?usp=sharing)
